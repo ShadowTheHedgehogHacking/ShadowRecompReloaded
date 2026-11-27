@@ -28,7 +28,7 @@ Some configurable options are planned, but for now this is the raw state of the 
 
 ## How do I use it?
 
-1. Add the mod directly to [SAMM](https://github.com/X-Hax/SA-Mod-Manager) - You will need v1.3.9 and v1.0.1 or newer of [ShadowRecomp](https://github.com/FoxWorkshop/ShadowRecomp) yet!
+1. Add the mod directly to [SAMM](https://github.com/X-Hax/SA-Mod-Manager) - You will need SAMM v1.3.9 and [ShadowRecomp](https://github.com/FoxWorkshop/ShadowRecomp) v1.0.1 or newer
 2. If you're playing with character mods or event mods etc, I would recommend Reloaded is ordered at the TOP of the list as the base mod.
-3. Configure (requires SAMM v1.3.9 or newer)!
+3. Configure
 4. Play!
